@@ -17,14 +17,15 @@ There are 5 parts to this circuit.
 Hours Spent: 2Hrs
 ## 10/12/25
 
-I began producing a rough design of the outcome in Solidworks. First, I produced the components I will use seperately. I produced a 2020 aluminium extrusion. These will create the two axes: the X-axis and the Y-axis. Then I created the V-Wheels that will glide along the rails. The V-Wheels were then nestled between two plates using 5mm spacers. On this plate, the X-axis will be attached. I repeated this combination for the Y-axis where the plates will be attached to the pen holder. I then created an assembly of both the X-axis and Y-axis. 
+I began producing a rough design of the outcome in Solidworks. First, I produced the components I will use seperately. I produced a 2020 aluminium extrusion. These will create the two axes: the X-axis and the Y-axis. Then I found 3D models of the V-Wheels that will glide along the rails. The V-Wheels were then nestled between two plates using 5mm spacers. On this plate, the X-axis will be attached. I repeated this combination for the Y-axis where the plates will be attached to the pen holder. I then created an assembly of both the X-axis and Y-axis. 
 <img width="876" height="650" alt="image" src="https://github.com/user-attachments/assets/554adb8c-d271-4725-b48f-2d4c6d0467a9" />
 <img width="208" height="236" alt="image" src="https://github.com/user-attachments/assets/03c0775b-2863-41ff-a61e-2f9c689bacbb" />
 <img width="298" height="284" alt="image" src="https://github.com/user-attachments/assets/ca0bed33-709e-40f2-84bb-35b0892439d8" />
 <img width="1093" height="567" alt="image" src="https://github.com/user-attachments/assets/c058f005-6d7f-4a78-98a2-c95afad3a420" />
 <img width="1268" height="561" alt="image" src="https://github.com/user-attachments/assets/bc4c3a06-404b-45b4-9307-ceccf80e3cf7" />
 <img width="1219" height="639" alt="image" src="https://github.com/user-attachments/assets/0e181f84-7235-44ac-826f-3a5eaa06292d" />
-Once I had created the separate axes, I created the full assembly.
+Once I had created the separate axes, I created the full assembly. I created Sliding nuts to fix the componets onto the aluminium extrusion.
+<img width="961" height="580" alt="image" src="https://github.com/user-attachments/assets/1b1e0352-2e7c-4315-8906-c0593c5b5438" />
 <img width="1057" height="461" alt="image" src="https://github.com/user-attachments/assets/e8138b61-7ab0-43b6-baba-bdadcb905f8d" />
 
 Hours Spent: 6Hrs
@@ -41,3 +42,32 @@ I noticed that the V-Wheels were too deep within the extrusion so I had to recre
 <img width="662" height="426" alt="image" src="https://github.com/user-attachments/assets/131de40e-e6ff-4af8-b0b7-35ca3698560e" />
 
 Hours Spent: 5Hrs
+
+## 12/12/25
+
+I found 3D models of the NEMA 17 motors and the Pulley and Idlers used. I created bases for the Y axis extrusion to sit on and the mechanical componets to attach to. 
+<img width="498" height="468" alt="image" src="https://github.com/user-attachments/assets/f8f0a9a6-0666-4f3f-8611-249aaf96d2a7" />
+<img width="390" height="350" alt="image" src="https://github.com/user-attachments/assets/6c3e3aac-0303-4d13-8d75-20750ce831dc" />
+<img width="519" height="451" alt="image" src="https://github.com/user-attachments/assets/684b2550-76ea-4ed6-b073-021d56cc262f" />
+<img width="648" height="495" alt="image" src="https://github.com/user-attachments/assets/192da798-2705-4fad-8ea4-a67a4f976757" />
+<img width="764" height="583" alt="image" src="https://github.com/user-attachments/assets/f5697040-69e7-4b76-89ca-8b2bfd2afb8e" />
+
+
+Hours Spent: 4.5Hrs
+
+## 13/12/25
+
+I began creating the plates to connect the motor and pulley system to the X axis.
+<img width="717" height="293" alt="image" src="https://github.com/user-attachments/assets/ec235bb0-a282-4061-aeef-665ef8aa3f0d" />
+<img width="709" height="240" alt="image" src="https://github.com/user-attachments/assets/02ee5108-a7b0-41ee-b11c-508d55d90a1d" />
+
+Hours Spent: 3Hrs
+
+## 14/12/25
+
+Today, I began assembling the entire project. 
+<img width="911" height="542" alt="image" src="https://github.com/user-attachments/assets/60ef3d5a-e08a-4f69-8b93-4fc67ff1f45d" />
+<img width="843" height="441" alt="image" src="https://github.com/user-attachments/assets/112b69cb-90ac-4896-92cc-98800abe2501" />
+<img width="738" height="807" alt="image" src="https://github.com/user-attachments/assets/22b30b95-aaab-4edd-b66a-a0b6b9168a8a" />
+
+Hours Spent: 6.5Hrs
