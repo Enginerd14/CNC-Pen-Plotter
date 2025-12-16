@@ -71,3 +71,32 @@ Today, I began assembling the entire project.
 <img width="738" height="807" alt="image" src="https://github.com/user-attachments/assets/22b30b95-aaab-4edd-b66a-a0b6b9168a8a" />
 
 Hours Spent: 6.5Hrs
+
+## 15/12/25
+
+I added in Limit switches and began thinking abot the design of the Pen holder. 
+<img width="1056" height="786" alt="image" src="https://github.com/user-attachments/assets/0b0d29a7-fa4b-474e-bde2-5964c7915e10" />
+<img width="551" height="470" alt="image" src="https://github.com/user-attachments/assets/21d379b3-7d4b-4670-8fac-ef01f689bf17" />
+
+
+Hours Spent: 2.5Hrs
+
+## 16/12/25
+
+I created the different parts of the Pen holder mechanism. I decided that I would make it attachable to the existing plate on the X-axis.
+- Existing Plate <img width="931" height="810" alt="image" src="https://github.com/user-attachments/assets/6412d1bb-7c07-491d-8f38-068767899ff1" />
+  
+- Pen Holder <img width="616" height="537" alt="image" src="https://github.com/user-attachments/assets/ff65d8aa-e382-477d-8316-c3aa1590e42f" /> 
+  
+- Pen holder Guide <img width="626" height="758" alt="image" src="https://github.com/user-attachments/assets/3e91de73-a8c9-40d6-bcb7-2ae935f46519" />
+  
+- shaft pen holder will glide along <img width="181" height="397" alt="image" src="https://github.com/user-attachments/assets/59e8377a-538d-41cd-8cf5-20194ad89944" />
+  
+- Full Assembly with servo motor <img width="828" height="705" alt="image" src="https://github.com/user-attachments/assets/ddb77105-e679-47f1-ad94-ad995f07c972" />
+  
+- Attached to axis <img width="1104" height="807" alt="image" src="https://github.com/user-attachments/assets/b0101cce-9ead-4e88-a48f-fe5e6cc2c015" />
+
+- Full Model so far <img width="1232" height="599" alt="image" src="https://github.com/user-attachments/assets/c4fd88d9-c4a5-4c5e-961e-4a32292a8b0d" />
+  <img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/f835b6bf-841a-4a76-88d2-50c1b3bf3e9e" />
+
+Hours Spent: 6Hrs
