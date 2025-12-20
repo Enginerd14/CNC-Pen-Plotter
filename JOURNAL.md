@@ -2,20 +2,8 @@ This is where I will document the process of building my **CNC pen plotter**
 ## 08/12/25
 
 
+
 ## 09/12/25
-
-Today, I began considering the Circuit components required for this project.
-There are 5 parts to this circuit.
-- Microcontroller - I decided on the ESP 32 WROOM 32 due to its versatility, multiple GPIO pins and also the opportunity for WiFi and Bluetooth support
-- Stepper motors - I chose the NEMA 17, probably the most common stepper motor used in low cost 3D printers and CNC machinery
-- Stepper motor drivers - I descided on the TMC2209, a smooth, low noise alternative to the common A4988 and DRV8825 modules
-- Limit switches
-- Servo motor - I am using the SG90 due to its compatibility and lightweight
-
-  However, there are some issues. The motors and the motor drivers need a 12V supply whereas the servo only uses 5V and the ESP32 only uses 3.3V. Therefore, I will use a buck regualtor, the LM2596 to step down the 12V to 5V and 3.3V. 
-
-Hours Spent: 2Hrs
-## 10/12/25
 
 I began producing a rough design of the outcome in Solidworks. First, I produced the components I will use seperately. I produced a 2020 aluminium extrusion. These will create the two axes: the X-axis and the Y-axis. Then I found 3D models of the V-Wheels that will glide along the rails. The V-Wheels were then nestled between two plates using 5mm spacers. On this plate, the X-axis will be attached. I repeated this combination for the Y-axis where the plates will be attached to the pen holder. I then created an assembly of both the X-axis and Y-axis. 
 <img width="876" height="650" alt="image" src="https://github.com/user-attachments/assets/554adb8c-d271-4725-b48f-2d4c6d0467a9" />
@@ -30,7 +18,7 @@ Once I had created the separate axes, I created the full assembly. I created Sli
 
 Hours Spent: 6Hrs
 
-## 11/12/25
+## 10/12/25
 
 I noticed that the V-Wheels were too deep within the extrusion so I had to recreate the separate axes assmeblies an then the full axes assembly.
 <img width="814" height="545" alt="image" src="https://github.com/user-attachments/assets/1c0b7bcd-27ae-41ae-a974-d88a343f08f8" />
@@ -43,7 +31,7 @@ I noticed that the V-Wheels were too deep within the extrusion so I had to recre
 
 Hours Spent: 5Hrs
 
-## 12/12/25
+## 11/12/25
 
 I found 3D models of the NEMA 17 motors and the Pulley and Idlers used. I created bases for the Y axis extrusion to sit on and the mechanical componets to attach to. 
 <img width="498" height="468" alt="image" src="https://github.com/user-attachments/assets/f8f0a9a6-0666-4f3f-8611-249aaf96d2a7" />
@@ -55,7 +43,7 @@ I found 3D models of the NEMA 17 motors and the Pulley and Idlers used. I create
 
 Hours Spent: 4.5Hrs
 
-## 13/12/25
+## 12/12/25
 
 I began creating the plates to connect the motor and pulley system to the X axis.
 <img width="717" height="293" alt="image" src="https://github.com/user-attachments/assets/ec235bb0-a282-4061-aeef-665ef8aa3f0d" />
@@ -63,16 +51,16 @@ I began creating the plates to connect the motor and pulley system to the X axis
 
 Hours Spent: 3Hrs
 
-## 14/12/25
+## 13/12/25
 
 Today, I began assembling the entire project. 
 <img width="911" height="542" alt="image" src="https://github.com/user-attachments/assets/60ef3d5a-e08a-4f69-8b93-4fc67ff1f45d" />
 <img width="843" height="441" alt="image" src="https://github.com/user-attachments/assets/112b69cb-90ac-4896-92cc-98800abe2501" />
 <img width="738" height="807" alt="image" src="https://github.com/user-attachments/assets/22b30b95-aaab-4edd-b66a-a0b6b9168a8a" />
 
-Hours Spent: 6.5Hrs
+Hours Spent: 5.5Hrs
 
-## 15/12/25
+## 14/12/25
 
 I added in Limit switches and began thinking abot the design of the Pen holder. 
 <img width="1056" height="786" alt="image" src="https://github.com/user-attachments/assets/0b0d29a7-fa4b-474e-bde2-5964c7915e10" />
@@ -81,7 +69,7 @@ I added in Limit switches and began thinking abot the design of the Pen holder.
 
 Hours Spent: 2.5Hrs
 
-## 16/12/25
+## 15/12/25
 
 I created the different parts of the Pen holder mechanism. I decided that I would make it attachable to the existing plate on the X-axis.
 - Existing Plate <img width="931" height="810" alt="image" src="https://github.com/user-attachments/assets/6412d1bb-7c07-491d-8f38-068767899ff1" />
@@ -99,4 +87,39 @@ I created the different parts of the Pen holder mechanism. I decided that I woul
 - Full Model so far <img width="1232" height="599" alt="image" src="https://github.com/user-attachments/assets/c4fd88d9-c4a5-4c5e-961e-4a32292a8b0d" />
   <img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/f835b6bf-841a-4a76-88d2-50c1b3bf3e9e" />
 
-Hours Spent: 6Hrs
+Hours Spent: 5Hrs
+
+
+## 16/12/25
+
+Today, I began considering the Circuit components required for this project.
+
+- Microcontroller - I decided on the arduino uno for simplicity
+- Stepper motors - I chose the NEMA 17, probably the most common stepper motor used in low cost 3D printers and CNC machinery
+- Stepper motor drivers - I descided on the A4988 
+- Limit switches
+- Servo motor - I am using the SG90
+
+However, there are some issues. The motors  need a 12V supply whereas the servo and arduino uno only use 5V. Therefore, I will use a buck regualtor, the LM2596 to step down the 12V to 5V. 
+
+You can find pre-made shields for the arduino uno with 4 A4988 motor drivers but thats boring, so I decided to create my own on KiCad :) But due to the complexity and time constraints, I decided I will use a pre-made LM2596 Module. 
+
+Hours Spent: 2Hrs
+
+## 17/12/25
+
+I began creating the schematic for the PCB using datasheets and various online tutorials. KiCad doesn't have a symbol footprint for the LM2596 premade module so I created my own using 3 pads: one for Voltage In, one for Voltage Out and one for GND. 
+
+<img width="1266" height="765" alt="image" src="https://github.com/user-attachments/assets/2a9a0f9b-f0c9-49d1-a852-c817fba79246" />
+
+Hours Spent: 2Hrs
+
+## 18/12/25
+
+Today, I created the PCB using the schematic. I wanted my PCB to stack on top of the arduino just like the premade shield so I used Pin headers to connect to the arduino. I also had to make my own footrpint for the LM2596 Module whcih just consisted of 3 pads. 
+
+<img width="777" height="580" alt="image" src="https://github.com/user-attachments/assets/a6542d61-ca99-460b-8b0e-d4baad4ba5c2" />
+<img width="636" height="495" alt="image" src="https://github.com/user-attachments/assets/03882067-d063-43f4-be4a-198ceaf1f8f0" />
+<img width="994" height="780" alt="image" src="https://github.com/user-attachments/assets/4667f42a-5c1f-4a7a-8366-cab2abd8a33b" />
+
+Hours Spent: 3Hrs
