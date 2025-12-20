@@ -123,3 +123,15 @@ Today, I created the PCB using the schematic. I wanted my PCB to stack on top of
 <img width="994" height="780" alt="image" src="https://github.com/user-attachments/assets/4667f42a-5c1f-4a7a-8366-cab2abd8a33b" />
 
 Hours Spent: 3Hrs
+
+## 19/12/25
+
+While creating my BOM, I realised tht majority of the power supplies used a barrel jack so I switched out my screw terminal for a barrel jack and remade the PCB.
+
+<img width="1249" height="734" alt="image" src="https://github.com/user-attachments/assets/b87520fd-4318-41f6-b190-62b0a81646bf" />
+<img width="838" height="614" alt="image" src="https://github.com/user-attachments/assets/9dd02817-b6f6-4693-82c6-c35582591fff" />
+<img width="766" height="595" alt="image" src="https://github.com/user-attachments/assets/87e2c9ff-9d48-4c79-8786-b755dc40da06" />
+<img width="729" height="526" alt="image" src="https://github.com/user-attachments/assets/5cedab0a-951a-4c2a-a3e3-1e987fe5f9f2" />
+
+
+
