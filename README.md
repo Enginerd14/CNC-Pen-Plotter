@@ -2,7 +2,7 @@
 A Computer Numerical Controlled machine that translates G-code to drawings on paper by moving a pen along the X and y axes
 
 ## Why I chose this project?
-
+I chose to build a CNC pen plotter because it combines electronics and mechanical movement while also helping me develop my PCB and CAD design.
 ## Schematic
 <img width="1044" height="640" alt="image" src="https://github.com/user-attachments/assets/dc27978e-fc89-49c6-91d6-61fd67be3779" />
 
