@@ -1,11 +1,9 @@
 This is where I will document the process of building my **CNC pen plotter**
-## 08/12/25
-
-
+## Total Hours: 45.5
 
 ## 09/12/25
 
-I began producing a rough design of the outcome in Solidworks. First, I produced the components I will use seperately. I produced a 2020 aluminium extrusion. These will create the two axes: the X-axis and the Y-axis. Then I found 3D models of the V-Wheels that will glide along the rails. The V-Wheels were then nestled between two plates using 5mm spacers. On this plate, the X-axis will be attached. I repeated this combination for the Y-axis where the plates will be attached to the pen holder. I then created an assembly of both the X-axis and Y-axis. 
+I began producing a design of the outcome in Solidworks. First, I produced the components I will use seperately. I produced a 2020 aluminium extrusion. These will create the two axes: the X-axis and the Y-axis. Then I found 3D models of the V-Wheels that will glide along the rails. The V-Wheels were then nestled between two plates using 5mm spacers. On this plate, the X-axis will be attached. I repeated this combination for the Y-axis where the plates will be attached to the pen holder. I then created an assembly of both the X-axis and Y-axis. 
 <img width="876" height="650" alt="image" src="https://github.com/user-attachments/assets/554adb8c-d271-4725-b48f-2d4c6d0467a9" />
 <img width="208" height="236" alt="image" src="https://github.com/user-attachments/assets/03c0775b-2863-41ff-a61e-2f9c689bacbb" />
 <img width="298" height="284" alt="image" src="https://github.com/user-attachments/assets/ca0bed33-709e-40f2-84bb-35b0892439d8" />
@@ -16,7 +14,7 @@ Once I had created the separate axes, I created the full assembly. I created Sli
 <img width="961" height="580" alt="image" src="https://github.com/user-attachments/assets/1b1e0352-2e7c-4315-8906-c0593c5b5438" />
 <img width="1057" height="461" alt="image" src="https://github.com/user-attachments/assets/e8138b61-7ab0-43b6-baba-bdadcb905f8d" />
 
-Hours Spent: 6Hrs
+Hours Spent: 5.5Hrs
 
 ## 10/12/25
 
