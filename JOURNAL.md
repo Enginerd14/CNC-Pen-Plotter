@@ -100,6 +100,7 @@ Today, I began considering the Circuit components required for this project.
 - Limit switches
 - Servo motor - I am using the SG90
 
+This means I can use GRBL to translate the G code into movement.
 However, there are some issues. The motors  need a 12V supply whereas the servo and arduino uno only use 5V. Therefore, I will use a buck regualtor, the LM2596 to step down the 12V to 5V. 
 
 You can find pre-made shields for the arduino uno with 4 A4988 motor drivers but thats boring, so I decided to create my own on KiCad :) But due to the complexity and time constraints, I decided I will use a pre-made LM2596 Module. 
