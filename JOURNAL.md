@@ -20,7 +20,7 @@ Hours Spent: 6Hrs
 
 ## 10/12/25
 
-I noticed that the V-Wheels were too deep within the extrusion so I had to recreate the separate axes assmeblies an then the full axes assembly.
+I noticed that the V-Wheels were too deep within the extrusion so I had to recreate the separate axes assemblies an then the full axes assembly.
 <img width="814" height="545" alt="image" src="https://github.com/user-attachments/assets/1c0b7bcd-27ae-41ae-a974-d88a343f08f8" />
 <img width="994" height="520" alt="image" src="https://github.com/user-attachments/assets/2664cbd2-881d-447f-a63a-2df63bff9a1e" />
 <img width="806" height="462" alt="image" src="https://github.com/user-attachments/assets/9bc4ccad-4c9b-4e14-a3b6-bc75a83ae9b0" />
@@ -133,5 +133,21 @@ While creating my BOM, I realised tht majority of the power supplies used a barr
 <img width="766" height="595" alt="image" src="https://github.com/user-attachments/assets/87e2c9ff-9d48-4c79-8786-b755dc40da06" />
 <img width="729" height="526" alt="image" src="https://github.com/user-attachments/assets/5cedab0a-951a-4c2a-a3e3-1e987fe5f9f2" />
 
+Hours Spent: 2Hrs
 
+## 20/12/25
 
+I added the electronics to my CAD model and noticed that the stands and plates were too thin so I bulked them out. I now had a finished assmebly of my CNC Pen plotter. 
+<img width="505" height="385" alt="image" src="https://github.com/user-attachments/assets/c7ab6976-bcfa-485d-aecc-24749993d1c4" />
+<img width="1296" height="628" alt="image" src="https://github.com/user-attachments/assets/9f5edee9-4a24-4806-bcd3-00d9a769fe23" />
+<img width="985" height="580" alt="image" src="https://github.com/user-attachments/assets/3bc6f331-c03d-43d3-b880-881ad338a97d" />
+<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/3a7f4ee9-b338-40fe-86a8-f51a942fc3de" />
+<img width="890" height="770" alt="image" src="https://github.com/user-attachments/assets/02552e49-dea1-44d0-a8cd-fbb9fe8ab768" />
+
+Hours Spent: 3.5Hrs
+
+## 21/12/25
+
+I completed the BOM and started to upload everything onto my repo, ready for sumbission. 
+
+Hours Spent: 2Hrs
