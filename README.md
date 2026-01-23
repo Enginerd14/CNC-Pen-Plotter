@@ -4,11 +4,12 @@ A Computer Numerical Controlled machine that translates G-code to drawings on pa
 ## Why I chose this project?
 I chose to build a CNC pen plotter because it combines electronics and mechanical movement while also helping me develop my PCB and CAD design.
 ## Schematic
-<img width="1044" height="640" alt="image" src="https://github.com/user-attachments/assets/dc27978e-fc89-49c6-91d6-61fd67be3779" />
+<img width="787" height="644" alt="image" src="https://github.com/user-attachments/assets/4fe346d2-c5bc-400e-a42f-20d36ca39cc2" />
 
 ## PCB
-<img width="773" height="613" alt="image" src="https://github.com/user-attachments/assets/92120b8a-f2fc-4e1f-9283-43cf353d78bf" />
-<img width="664" height="517" alt="image" src="https://github.com/user-attachments/assets/6b2a00a4-be33-4068-b44d-fd14eee2f5e7" />
+<img width="1205" height="695" alt="image" src="https://github.com/user-attachments/assets/f3cbb9aa-34ab-4ee7-8bf7-470b3672640a" />
+<img width="771" height="453" alt="image" src="https://github.com/user-attachments/assets/2df1d783-fb18-4251-a103-8d8d0b9d67cd" />
+<img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/e9776357-497e-4d15-bf22-9e98d13b9967" />
 
 ## 3D Model
 <img width="1132" height="603" alt="image" src="https://github.com/user-attachments/assets/d47aa933-9022-49a3-a46f-66504452860d" />
