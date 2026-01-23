@@ -45,3 +45,6 @@ I chose to build a CNC pen plotter because it combines electronics and mechanica
 | 10mm Spring (ID 5mm)       | 2             | 1     | 0.10           | 1.04      | [10mm spring](https://www.aliexpress.com/item/1005009966338820.html)               |
 | M5 Spacer (6mm)            | 25            | 3     | 0.04           | 1.14      | [M5 spacer](https://www.aliexpress.com/item/1005005477773699.html)                 |
 | M5 Sliding Nuts            | 12            | 1     | 0.09           | 1.79      | [M5 sliding nuts](https://www.aliexpress.com/item/32859918655.html)                |
+| PCB                        | -             | -     |  -             | 5.00      |                                                                                    |
+| AliExpress Shipping        | -             | -     |  -             | 17.86     |                                                                                    |
+|TOTAL                                       | GBP 185.03             | USD 251.73                                                                                     |
