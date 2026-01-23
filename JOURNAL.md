@@ -163,6 +163,6 @@ Once I had finished with my schematic, I began designing my PCB. I decided not t
 <img width="771" height="453" alt="image" src="https://github.com/user-attachments/assets/884a6a93-7db9-413a-abbd-0d05502b1b26" />
 <img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/6816abf6-ba7a-48f9-8458-92f7d21e8799" />
 
-Once I finished the designs I began to update my BOM and my ReadMe and journals on github. 
+Once I finished the designs I began writing a simple program to test whether the functions work as expected. Then I updated my BOM, my ReadMe and journals on github ready to submit. 
 
 Hours Spent: 4Hrs
