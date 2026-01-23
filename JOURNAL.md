@@ -151,10 +151,18 @@ I completed the BOM and started to upload everything onto my repo, ready for sum
 
 Hours Spent: 2Hrs
 
-## 20/01/26
+## 22/01/26
 
 I recieved feedback on my project and chose to remake my PCB. This time I decided to use an ESP32 as I was told the Arudino uno was outdated and expensive. I remade the PCB using the same motor drivers and motors and limit switches. I used an 7805 5V regulator to step down the voltage for the ESP32.
 
+<img width="787" height="644" alt="image" src="https://github.com/user-attachments/assets/b3e723b4-fa3d-4459-9594-2bd6b4306e19" />
 
+Once I had finished with my schematic, I began designing my PCB. I decided not to make the A4988 and the ESP32 directly soldered to the board and used pin sockets instead to ensure there will be no damage to the components while soldering and if damage occurs, they are easily swappable. 
 
+<img width="1205" height="695" alt="image" src="https://github.com/user-attachments/assets/98535791-34b2-4864-82b1-f00f1088a9d1" />
+<img width="771" height="453" alt="image" src="https://github.com/user-attachments/assets/884a6a93-7db9-413a-abbd-0d05502b1b26" />
+<img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/6816abf6-ba7a-48f9-8458-92f7d21e8799" />
 
+Once I finished the designs I began to update my BOM and my ReadMe and journals on github. 
+
+Hours Spent: 4Hrs
