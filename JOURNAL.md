@@ -150,3 +150,11 @@ Hours Spent: 3.5Hrs
 I completed the BOM and started to upload everything onto my repo, ready for sumbission. 
 
 Hours Spent: 2Hrs
+
+## 20/01/26
+
+I recieved feedback on my project and chose to remake my PCB. This time I decided to use an ESP32 as I was told the Arudino uno was outdated and expensive. I remade the PCB using the same motor drivers and motors and limit switches. I used an 7805 5V regulator to step down the voltage for the ESP32.
+
+
+
+
