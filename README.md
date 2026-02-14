@@ -6,6 +6,9 @@ I chose to build a CNC pen plotter because it combines electronics and mechanica
 ## Schematic
 <img width="787" height="644" alt="image" src="https://github.com/user-attachments/assets/4fe346d2-c5bc-400e-a42f-20d36ca39cc2" />
 
+## How to use this project
+You could you this for virtually any drawing whether thats to do your homework or to create some artwork. In the future, I am also thinking of upgrading it to amke a router or milling machin. 
+
 ## PCB
 <img width="1205" height="695" alt="image" src="https://github.com/user-attachments/assets/f3cbb9aa-34ab-4ee7-8bf7-470b3672640a" />
 <img width="771" height="453" alt="image" src="https://github.com/user-attachments/assets/2df1d783-fb18-4251-a103-8d8d0b9d67cd" />
