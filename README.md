@@ -11,12 +11,21 @@ I chose to build a CNC pen plotter because it combines electronics and mechanica
 <img width="771" height="453" alt="image" src="https://github.com/user-attachments/assets/2df1d783-fb18-4251-a103-8d8d0b9d67cd" />
 <img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/e9776357-497e-4d15-bf22-9e98d13b9967" />
 
+## PCB 3D render
+<img width="1482" height="1081" alt="image" src="https://github.com/user-attachments/assets/eccfc121-337f-4a9f-911d-3790c33fc194" />
+<img width="1474" height="1098" alt="image" src="https://github.com/user-attachments/assets/a45c977e-1fdc-42e1-a279-f43302c43e17" />
+<img width="1487" height="650" alt="image" src="https://github.com/user-attachments/assets/c66f3d96-7a50-421b-be4e-d53e6dea3f06" />
+<img width="1458" height="660" alt="image" src="https://github.com/user-attachments/assets/b9a09682-9628-4f9a-96d1-9a80836eecbc" />
+
+
 ## 3D Model
-<img width="1132" height="603" alt="image" src="https://github.com/user-attachments/assets/d47aa933-9022-49a3-a46f-66504452860d" />
-<img width="1339" height="573" alt="image" src="https://github.com/user-attachments/assets/d96e7a8f-1e7a-4609-bb0d-ec2b6953af48" />
+<img width="1472" height="941" alt="image" src="https://github.com/user-attachments/assets/d98b7005-5cb4-4960-acae-3e5dccf8a0b0" />
+<img width="1556" height="958" alt="image" src="https://github.com/user-attachments/assets/699a4e57-c7fc-483f-a203-949035a6be0b" />
 <img width="1010" height="373" alt="image" src="https://github.com/user-attachments/assets/61528976-96bc-4e75-b564-0524bc1cf8ff" />
-<img width="943" height="463" alt="image" src="https://github.com/user-attachments/assets/114b8d8d-8373-4513-9f1c-72718bba651a" />
-<img width="890" height="770" alt="image" src="https://github.com/user-attachments/assets/86e1dbd9-e65d-4708-9ce8-ad0e08e5af04" />
+<img width="1146" height="1096" alt="image" src="https://github.com/user-attachments/assets/b5d7180f-5d33-42b7-8906-23f9df130264" />
+<img width="1443" height="997" alt="image" src="https://github.com/user-attachments/assets/0dcc3d06-f1d2-4a47-813b-22a4e610e656" />
+
+
 
 ## Bill of Materials
 
