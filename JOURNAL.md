@@ -1,5 +1,5 @@
 This is where I will document the process of building my **CNC pen plotter**
-## Total Hours: 45.5
+## Total Hours: 54.8
 
 ## 09/12/25
 
@@ -166,3 +166,34 @@ Once I had finished with my schematic, I began designing my PCB. I decided not t
 Once I finished the designs I began writing a simple program to test whether the functions work as expected. Then I updated my BOM, my ReadMe and journals on github ready to submit. 
 
 Hours Spent: 4Hrs
+
+## 18/03/26
+
+After two weeks I finally received all the parts and began assembling it all together. I began by assembling the extrusions to the stands using the M5 screws and nuts. Then I attached the plates to the extrusions and attached all 3 extrusions together. While doing this I overtightened some of the screws causing the 3d printed stands to crack where the screws were causing more stress. So I used a soldering iron to melt the filament back into place although it was now significantly weaker then before. I struggled to fit the 40mm bolt through the plates and the spacers and the v wheels and I had to do this for 3 different plates so I took quite a while just to assemble the basic frame. I also screwed the motors down and attached the pulleys to the motors and the correct printed parts where they were needed. Then I realised I couldn't fit the belt through so I had to undo it all fit the belt, cut it to the right length, ziptie to down and re assemble the casing. I finished the assembly by fitting the pen lift mechanism together. However I found that the springs were too small and that they didn't actually fit on the metal shaft. While looking for new ones I realise I didn't need it because gravity exists and if the servo tilts to the correct position it should just fall down. So I continued assembling the pen lift and it wasn't long till I ran into another problem. The shaft didn't fit through the pen lift holes so couldn't be assembled. Rather than reprintg and waiting I just drilled the hole bigger so it would fit but it took a while as I had to be careful not to break it as the hole was already near the edge. I put in the screw and the nut to hold the pen in place and finished by again attaching it to the extrusion with the long 40mm bolts. I now had a fully assembled frame and was ready for the PCB.
+
+<img width="2000" height="582" alt="image" src="https://github.com/user-attachments/assets/fee24b19-0674-4f39-b98e-85a876264f2b" />
+<img width="2000" height="1921" alt="image" src="https://github.com/user-attachments/assets/8eeebeaf-236c-4740-a251-b137e8e4486e" />
+
+Hours Spent: 2.1Hrs
+
+## 25/03/26
+
+Now that I had all the PCB parts and had a frame ready too, I began to solder my PCB. I soldered all the components on to the PCB. It took a while to solder the pin sockets because they were surprisingly difficult to cut however I was just using scissors so I guess that makes sense :) then when I powered it on I got an error light on the esp32 and the computer could not recognise it at all. So I got out my multimeter and tested every single pin 3 times but I didn't really know what I was looking for so didn't find much. I looked at every connection against the schematic and couldn't find any thing wrong. Until I realised the HUGE mistake. Kicad didn't have the esp32 that I was using so I used 1x15 pin sockets instead to connect everything in the schematic but when designing the PCB, the socket was effectively upside down so the connections were all wrong for one side of the PCB. Blueprint is ending really soon and luckily I was allowed to buy the premade CNC module as I had managed to save a lot for money on the extrusions. Hopefully that will work when it arrives and I will be able to remake the PCB correctly in the future.
+
+<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/bf8ed00f-77bf-4d68-9aeb-43f72d1843f5" />
+
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/fa960655-30e6-403d-be1d-c79d8077ae42" />
+
+Hours Spent: 1.8Hrs
+
+## 25/04/26
+
+The CNC shield arrived and I tested it and it turned on and looked good. So I began downloading grbl. Once I downloaded it on my PC I used Arduino ide to flash it to the R3. The. I installed the universal g code sender to the connect the board and send the instructions to the motors. This all took a lot longer than it should have because it was the first time I had done something like this with coding and flashing so I spent a lot of time looking at tutorials. When I tested it, it didn't work. I realised that I need to connect the power supply to the shield not the Arduino so I soldered a 3.5mm jack to the screw terminal that provided power to the CNC shield. Then when I powered it on, the g code sender immediately recognised the board. I then calibrated the step and the direction of the motors and the coordinates and all and then it was ready to test. However the servo cable was too short but I don't really have time to fix that rn so we we shall ignore that for now and come back to it in the future. To test it, I managed to draw a simple square using the machine. But I have to tape the paper down so it doesn't shift. I couldn't really test with anything complicated yet because it was late at night and very noisy and I am supposed to be revising. But I know it works now :)
+
+https://youtu.be/4iL55zWHgNk?si=hgiViPPwNMbE4X7G
+
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/4673aecd-4735-4f3f-beed-0458139a0d88" />
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/3262b3d3-4374-4539-90bd-215e4b97fe36" />
+
+Hours Spent: 1.4
+
